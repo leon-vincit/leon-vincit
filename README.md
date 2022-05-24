@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leon-vincit
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning front-end tech
+- 💞️ I’m looking to collaborate on web technologies
+- 📫 How to reach me: mail me 
